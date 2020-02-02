@@ -19,6 +19,6 @@
 ### My name is Nisreen Kilani, I studied Computer Science at PSUT.
 ### I love coding, and I'm a member of ACM.
 ### I've participated in many programming contests including ACM contests, and I'm interested in competitive programming. 
-### [Here is the  link to my GitHub portfolio page.](https://github.com/NisreenKil/learning-journal)
+### [Here is the  link to my GitHub portfolio page.](https://github.com/NisreenKil)
 
 
