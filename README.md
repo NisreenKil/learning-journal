@@ -17,8 +17,7 @@
 ![alt text](https://animals.net/wp-content/uploads/2019/06/Cockatiel-4-650x425.jpg)
 
 ### My name is Nisreen Kilani, I studied Computer Science at PSUT.
-### I love coding, and I'm a member of ACM.
-### I've participated in many programming contests including ACM contests, and I'm interested in competitive programming. 
+### I love coding, I'm a member of ACM, and I'm interested in competitive programming. 
 ### [Here is the  link to my GitHub portfolio page.](https://github.com/NisreenKil)
 
 
